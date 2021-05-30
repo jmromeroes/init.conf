@@ -1,0 +1,5 @@
+* Canales de transmisión propuestos
+
+| *Nombre canal*  | *Representante* | *Link*  |
+| Josekell        | José Romero     | [[twitch.tv/josekell][Twitch]]  |
+| Colombia Lambda | José Romero     | [[https://www.youtube.com/c/ColombiaLambda][YouTube]] |

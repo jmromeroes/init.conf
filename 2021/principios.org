@@ -1,0 +1,24 @@
+* Vision
+**** Intentar comunicar de manera clara las ventajas y desventajas del mundo de la programación
+**** Intentar abrir las puertas a través de charlas introductorias a gente sin background previo en programación al mundo del desarrollo
+**** Hacer los procesos de manera transparente para que todos sepan los motivos y razones para las decisiones tomadas a través de la plataforma GitHub
+**** Buscar apoyo de comunidades para fomentación de un evento de calidad.
+**** Decidir si buscar sponsors es lo correcto o es preferible manejar el evento exclusivamente a través del apoyo voluntario de los involucrados.
+**** Hacer al menos 3 reuniones virtuales para aclarar todos los puntos con los organizadores y speakers.
+     
+* Principios
+**** Inclusión: Manejar un espacio de absoluta inclusión para todas las personas.
+**** Transparencia: Mostrar todos los aspectos del proceso de creación de la charla, desde definición de logo hasta generación de las charlas
+**** Simplicidad: Formatos sencillos que sean pertinentes para que gente de todos los lugares, estratos, condiciones, etc. puedan hacer parte.
+**** Búsqueda
+**** Enseñanza
+**** Colaboración
+**** Ánimo
+**** Actitud
+     
+* Nice to have
+**** Tantas personas involucradas como sea posible, para poder tener conversaciones interesantes respecto a la mejor manera de hacer esta conferencia realidad.
+**** Presentaciones entretenidas y llamativas
+**** Buena presencia en redes para que más gente esté interesada del evento
+**** Buenas conexiones a internet tanto para presentadores como para público
+**** Apoyo de algunas universidades públicas y privadas

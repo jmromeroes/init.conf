@@ -1,0 +1,6 @@
+* Comunidades
+  
+| *Nombre comunidad* | *Nombre Representante/s* | *Descripción comunidad*                                                                                                                                               | *Links relacionados*    |
+| Colombia Lambda    | José Romero              | Comunidad creada para compartir conocimiento de temas técnicos avanzados como lenguajes de programación, programación funcional e inteligencia artifical, entre otros | [[https://www.youtube.com/c/ColombiaLambda][YouTube]], [[twitch.tv/josekell][Twitch]], [[https://www.meetup.com/colombia-lambda/][MeetUp]] |
+
+

@@ -1,0 +1,8 @@
+| *Nombre*                           | José Miguel Romero Espitia                                                                                                 |
+| *Profesión*                        | Frameworks research engineer                                                                                               |
+| *Empresa*                          | [[https://imagine.ai][Imagine.ai]]                                                                                                                 |
+| *Actividades que desea desempeñar* | Hosting, organización, definición de principios, divulgación, apoyo general                                                |
+| *Motivos apoyo*                    | Ayudar a crecer el país a través de la divulgación abierta de conocimiento relacionado con la programación y la tecnología |
+| *LinkedIn*                         | https://www.linkedin.com/in/%F0%9F%92%BB-jose-romero-02003011a/                                                            |
+| *Email*                            | jmromeroe@gmail.com                                                                                                        |
+
