@@ -1,11 +1,6 @@
 
 # Table of Contents
 
-1.  [](#org7b9c97f)
-
-
-<a id="org7b9c97f"></a>
-
 # TODO 
 
 -   [X] Tener al menos 10 personas interesadas en colaborar
