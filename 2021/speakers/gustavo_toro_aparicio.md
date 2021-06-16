@@ -26,14 +26,20 @@
 
 
 <tr>
-<td class="org-left"><b>Actividades que desea desempeñar</b></td>
-<td class="org-left">Apoyo general, conseguir sponsors</td>
+<td class="org-left"><b>Título charla</b></td>
+<td class="org-left">Cómo conseguir tu primer trabajo en programación y no morir en el intento</td>
 </tr>
 
 
 <tr>
-<td class="org-left"><b>Motivos apoyo</b></td>
-<td class="org-left">Ayudar a crecer el país a través de la divulgación abierta de conocimiento relacionado con la programación y la tecnología</td>
+<td class="org-left"><b>Descripción charla</b></td>
+<td class="org-left">Ya te formaste para ser todo un desarrollador, bien sea gracias a un bootcamp, universidad u otra alternativa, pero aún así no te dan la oportunidad de trabajar como desarrollador? En esta charla te comentaré sobre algunos tips para que destaques y puedas tener ese primer empleo tan esperado.</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><b>Motivos charla</b></td>
+<td class="org-left">La motivación para esta charla es simplemente abrir el panorama de oportunidades que tienen las personas que recién empiezan en el desarrollo de software y quieren conseguir un primer empleo rápidamente.</td>
 </tr>
 
 
