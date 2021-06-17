@@ -1,0 +1,7 @@
+* Resumen
+**** Consideramos si tal vez hacer la organización del evento a través de plataformas como Airmeet, Hopin o HeySummit puede ser un overkill para el primer evento que organicemos.
+**** Revisamos la charla de Gustavo Toro
+**** Acordamos mandar el resto de charlas para la próxima semana
+**** Consideramos la búsqueda de sponsors para el evento (again)
+**** Consideramos el uso de una plataforma como Restream para hacer el streaming del evento, intentando dejar la posibilidad al speaker de tener la charla pre-grabada o hacerla en vivo a consideración.
+**** La próxima charla de planeación vamos a transmitirla a través de Restream para probar esa forma de manejo del evento.
