@@ -1,0 +1,8 @@
+| *Nombre*             | Nataly Florian && Esteban Marin                                                                                                                                      |   |   |
+| *Profesión*          | --                                                                                                                                                                   |   |   |
+| *Empresa*            | --                                                                                                                                                                   |   |   |
+| *Título charla*      | Cambios de carrera extremos un ejemplo sorprendente                                                                                                                  |   |   |
+| *Descripción charla* | Basandonos en esta entrevista [[https://www.youtube.com/watch?v=IHZgUimaFr0][Youtube]], re repetiría el formato y las preguntas. Ya se cuenta con la aprovación de Nataly                                             |   |   |
+| *Motivos charla*     | Acercanos más a las personas que queremos atender. Nataly es la persona que trabajó 3 turnos y es madre soltera de dos hijos. Ahora trabaja en empresa de tecnología |   |   |
+| *LinkedIn*           | https://www.linkedin.com/in/gtoroap/                                                                                                                                 |   |   |
+| *Email*              | gtoroap@gmail.com                                                                                                                                                    |   |   |
