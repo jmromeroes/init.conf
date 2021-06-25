@@ -66,7 +66,7 @@
 
 <tr>
 <td class="org-left"><b>Email</b></td>
-<td class="org-left">estebanmarin002@gmail.com</td>
+<td class="org-left">em@estebanmarin.com</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
