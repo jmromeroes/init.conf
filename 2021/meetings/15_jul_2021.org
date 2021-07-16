@@ -1,0 +1,6 @@
+* Resumen
+**** El ecosistema liderado por Pablo Velasquez del que William Vergara hace parte, encaja muy bien con la propuesta de Init.conf pues también está en gran parte enfocada en la formación de talento junior además de la introducción al mundo del desarrollo para personas de cualquier condición social o económica.
+**** Ellos, tal vez, pueden proveer la plataforma de streaming que podríamos utilizar pues ya han tenido experiencia en este tipo de eventos.
+**** Están a su vez interesados en dar una charla que puede ser sobre otro caso de éxito similar al que ya hicieron acá https://www.youtube.com/watch?v=7E8JWBR2Hos
+**** Las posibles 3 plataformas podrían ser Facebook, Twitch y YouTube. Necesitamos alguien encargado de manejar Facebook.
+**** José empezará con la creación del landing page para el evento.
