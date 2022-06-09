@@ -1,0 +1,7 @@
+| *Nombre*                           | Gustavo Toro Aparicio                                                                                                      |
+| *Profesión*                        | Software Engineer                                                                                                          |
+| *Empresa*                          | [[https://salsamobi.com][Salsamobi]]                                                                                       |
+| *Actividades que desea desempeñar* | Apoyo general, conseguir sponsors                                                                                          |
+| *Motivos apoyo*                    | Ayudar a crecer el país a través de la divulgación abierta de conocimiento relacionado con la programación y la tecnología |
+| *LinkedIn*                         | https://www.linkedin.com/in/gtoroap/                                                                                       |
+| *Email*                            | gtoroap@gmail.com                                                                                                          |
